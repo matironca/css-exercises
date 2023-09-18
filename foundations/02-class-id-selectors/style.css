@@ -1,0 +1,18 @@
+.odd-number{
+    background-color: #e27b82;
+    font-family: Verdana, "DejaVu Sans", sans-serif ;
+}
+.odd-number.cooler-odd{
+font-size: 24px;
+
+}
+#second {
+    color: blue;
+    font-size: 36px;
+
+}
+#fourth{
+    background-color: rgb(93, 230, 93);
+    font-weight: bold;
+    font-size: 24px;
+}

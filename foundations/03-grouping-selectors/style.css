@@ -1,0 +1,19 @@
+.buttons{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+.buttons.positive{
+    background-color: black;
+    color: white;
+}
+.buttons.negative{
+    background-color: yellow;
+}  
+
+/* I could also group selectors by:
+.positive, .negative {
+Font size
+Font family
+
+}
+*/
